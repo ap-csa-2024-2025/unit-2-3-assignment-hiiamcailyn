@@ -16,5 +16,19 @@ public class Classwork
   }
 
   // write solutions to problems below
+//DelEnd
+public static void main(String[] args)
+{
+  System.out.print("Have a nice day!");
+  String name = library;
+  int n = 5;
+}
+
+public static void delEnd(String x, int n)
+{
+  int stoppingIndex = s.length() - n;
+  String output = s.substring(0, stoppingIndex);
+  return output;
+}
 
 }
